@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
+<a href="https://youtube.com/channel/UClCEdeMhmHxbyDVYAT7HgjQ"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
 </p>
 
 <p align="center">

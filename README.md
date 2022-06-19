@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://stranger.png/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/stranger.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://stranger.png/"><img src="https://github.com/stranget-bot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/IvVaDOeEtcpHhVPvtBeH5n"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
@@ -262,9 +262,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
+| [![Alien-Alfa](https://github.com/stranget-bot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?size=200)](https://github.com/Alien-Alfa) |
 |----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [꧁𓊈𒆜𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑𒆜𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>

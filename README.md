@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://stranger.png/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://stranger.png/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/stranger.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">

@@ -39,11 +39,11 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://stranger.png/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ</strong>
+<strong>𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑</strong>
 </p>
 
 <p align="center">

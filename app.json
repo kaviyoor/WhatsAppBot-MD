@@ -16,7 +16,7 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "stranger
+            "value": "stranger"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",

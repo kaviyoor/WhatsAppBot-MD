@@ -87,11 +87,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https:/https://github.com/stranget-bot/WhatsAppBot-MD/fork"><img title="S T R A N G E R" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://bit.ly/3MnJRjE"><img title="S T R A N G E R" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="S T R A N G E R" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -141,7 +141,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-MD
+git clone(https://github.com/stranget-bot/WhatsAppBot-MD
 cd WhatsAppBot-MD
 rm -rf session.alfa.json
 npm install

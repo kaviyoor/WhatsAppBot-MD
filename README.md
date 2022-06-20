@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1?permalink_comment_id=4206847#gistcomment-4206847"><img title="S T R A N G E R" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/stranget-bot/WhatsAppBot-MD"><img title="S T R A N G E R" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   

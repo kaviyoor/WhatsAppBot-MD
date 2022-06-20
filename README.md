@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="S T R A N G E R" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/stranget-bot/4a3f940e9e65eee62fd76ffebf302cf1"><img title="S T R A N G E R" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -124,12 +124,12 @@ OR
 
 
   ### ⚠️ Deploy With New Session? <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
+Click [FORK](https://github.com/stranget-bot/WhatsAppBot-MD/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD 
+  https://heroku.com/deploy?template=https://github.com/stranget-bot/WhatsAppBot-MD 
   ```
   
   <br> <br>

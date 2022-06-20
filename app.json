@@ -64,7 +64,7 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "S T R A N G E R
+            "value": "S T R A N G E R"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",

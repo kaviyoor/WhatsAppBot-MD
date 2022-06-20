@@ -24,11 +24,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/stranget-bot"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/strangerbot"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/stranget-bot"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/strangerbot"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://stranger.png/"><img src="https://github.com/stranget-bot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://stranger.png/"><img src="https://github.com/strangerbot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stranget-bot"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/strangerbot"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stranget-bot"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/strangerbot"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
@@ -262,7 +262,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/stranget-bot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?size=200)](https://github.com/Alien-Alfa) |
+| [![Alien-Alfa](https://github.com/strangerbot/WhatsAppBot-MD/blob/BETA-MD/stranger-removebg-preview.png?size=200)](https://github.com/Alien-Alfa) |
 |----|
 | [꧁𓊈𒆜𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑𒆜𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |

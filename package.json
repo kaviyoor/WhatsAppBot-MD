@@ -1,7 +1,7 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "Stranger-MD",
   "version": "2.1.0",
-  "description": "Beta Test By an Alien",
+  "description": "Beta Test By a stranger",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -21,7 +21,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "Stranger.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",

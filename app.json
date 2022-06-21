@@ -109,12 +109,12 @@
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/stranger-removebg-preview.png?raw=true"
+            "value": "https://github.com/strangerbot/WhatsAppBot-MD/blob/BETA-MD/Stranger.jpg?raw=true"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/stranger-removebg-preview.png?raw=true"
+            "value": "https://github.com/strangerbot/WhatsAppBot-MD/blob/BETA-MD/Stranger.jpg?raw=true"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
